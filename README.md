@@ -1,2 +1,3 @@
 # async-demo-springboot
-Demo para validar processamento async - Spring Boot
+
+Retorna um valor default caso o método demore + de 1 segundo para ser executado.
